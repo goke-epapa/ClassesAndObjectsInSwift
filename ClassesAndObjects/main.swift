@@ -25,3 +25,5 @@ richGuysCar.drive()
 let tesla = SelfDrivingCar()
 
 print(tesla.colour)
+tesla.destination = "1 Hacker Way"
+tesla.drive()
